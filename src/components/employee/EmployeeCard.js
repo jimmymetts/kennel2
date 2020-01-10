@@ -8,6 +8,8 @@ class EmployeeCard extends Component {
 
           <h3>Name: <span className="card-petname">Doodles</span></h3>
           <p>John James</p>
+          <h3>Name: <span className="card-petname">Jake</span></h3>
+          <p>Robert Clark</p>
         </div>
       </div>
     );
