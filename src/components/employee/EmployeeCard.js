@@ -12,8 +12,9 @@ class EmployeeCard extends Component {
           <p>Robert Clark</p>
           <h3>Name: <span className="card-petname">Rosie</span></h3>
           <p>Ron Mac</p>
-                    <h3>Name: <span className="card-petname">Rosie</span></h3>
-          <p>Ron Mac</p>
+          <h3>Name: <span className="card-petname">Pebbles</span></h3>
+          <p>Carol Carr</p>
+          
           
         </div>
       </div>
