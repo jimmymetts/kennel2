@@ -11,8 +11,13 @@ class LocationCard extends Component {
           <h3>Name: <span className="card-petname">Franklin</span></h3>
           <p>650 WSM Way</p>
           <h3>Name: <span className="card-petname">Knoxville</span></h3>
-          <p>125 Cumberland Dr</p>          <h3>Name: <span className="card-petname">Hendersonville</span></h3>
+          <p>125 Cumberland Dr</p>
+          <h3>Name: <span className="card-petname">Hendersonville</span></h3>
           <p>333 River</p>
+          <h3>Name: <span className="card-petname">Louisville</span></h3>
+          <p>Route 6 Box 242</p>
+          Route 6 Box 242
+          
 
         </div>
       </div>
