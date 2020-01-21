@@ -7,7 +7,7 @@
         { "id": 5, "name": "Theo", "breed": "Choc Lab" },
         { "id": 6, "name": "Pebbles", "breed": "Golden Retriever" },
         { "id": 7, "name": "Buddy", "breed": "Fiest" },
-        {"id": 8, "name":}
+        {"id": 8, "name":"Tommy", "breed": "mixed" }
     
 
     ]
