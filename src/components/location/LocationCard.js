@@ -19,6 +19,8 @@ class LocationCard extends Component {
           Route 6 Box 242
           <h3>Name: <span className="card-petname">Newton></span></h3>
           <p>232 Hwy 43</p>
+          <h3>Name: </h3>
+          <p>232 Hwy 43</p>
 
         </div>
       </div>
