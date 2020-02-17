@@ -28,6 +28,10 @@ class AnimalCard extends Component {
           <h3>Name: <span className="card-petname">Rosie</span></h3>
           <p>Breed: Corgy Mix</p>
         </div>
+        <div className="card-content">
+
+          <p>Breed: Corgy Mix</p>
+        </div>
       </div>
  
       
