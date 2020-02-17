@@ -32,6 +32,7 @@ class AnimalCard extends Component {
         <picture >
             <img src={require('./dog.svg')} alt="My Dog" />
           </picture>
+          <h3>Name:</h3>
           <p>Breed: Corgy Mix</p>
         </div>
       </div>
